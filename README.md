@@ -1,29 +1,15 @@
-# Foundation Compass Template
+# Example Child theme for the Cornerstone starter theme
 
-The easiest way to get started with Foundation + Compass.
+This is an example Child Theme for the Cornerstone starter theme. It includes a few basic CSS rules specific to WordPress to get you started. The Cornerstone parent theme purposely doesn't include any CSS in the CSS stylesheet so that you don't have to clutter your child theme having to reverse those CSS rules to design how you want.
 
-## Requirements
+## Download
 
-  * Ruby 1.9+
-  * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
+Clone the git repo `https://github.com/thewirelessguy/cornerstone-child-theme.git` or [download the archive](https://github.com/thewirelessguy/cornerstone-child-theme/archive/master.zip). 
 
-## Quickstart
+## Author
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
+**Stephen Mullen**
 
-```bash
-bundle exec compass watch
-```
-
-## Upgrading
-
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
+Stephen is a web designer and Android app developer based in Preston, UK
++ [Twitter @wirelessguyuk](http://twitter.com/wirelessguyuk)
++ [Website](http://thewirelessguy.co.uk)
