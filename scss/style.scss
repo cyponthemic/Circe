@@ -56,6 +56,11 @@ body {
 
 
 #floating {
+	display: none;
+	@media only screen and (max-width: 40.063em) {
+		display: none !important;
+	}
+	
 	top:$gap;
 	padding: $gap $gap*2;
 	position: fixed;
@@ -103,6 +108,7 @@ body {
 
 
 header.parralax {
+	
 	position: relative;
 	height: 250px;
 	width: 100%;

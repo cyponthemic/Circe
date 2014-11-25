@@ -29,7 +29,7 @@ data-0="background-position:  50% 0%;"
 data-top-bottom="background-position: 50% 100%;"
 >
 	<div class="row">
-		<div class="large-offset-4 columns">
+		<div class="large-offset-4 small-8 columns">
 		<h1 class="entry-title"><?php the_title(); ?></h1>
 		</div>
 	</div>
