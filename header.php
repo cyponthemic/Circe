@@ -11,7 +11,7 @@
 <meta name="viewport" content="initial-scale=1.0" />
 
 <title><?php wp_title( '|', true, 'right' ); ?></title>
-
+<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 </head>
 
@@ -61,6 +61,21 @@
       ?>
   </section>
 </nav>
-<nav class="side-nav show-for-large-up">
-
-<nav>
+<nav id="floating" class="show-for-large-up">
+	<img src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
+	<img class="logotype" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
+	 <?php
+      // Left Nav Section
+      if ( has_nav_menu( 'header-menu-left' ) ) {
+          wp_nav_menu( array(
+              'theme_location' => 'header-menu-left',
+              'container' => false,
+              'depth' => 0,
+              'items_wrap' => '<ul class="left">%3$s</ul>',
+              'fallback_cb' => false,
+              'after' => '<hr>',
+          ) );
+        }
+      ?>
+	<!-- </div> -->
+</nav>
