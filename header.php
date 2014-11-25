@@ -61,7 +61,7 @@
       ?>
   </section>
 </nav>
-<nav id="floating" class="show-for-large-up">
+<nav id="floating" class="">
 	<img src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
 	<img class="logotype" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
 	 <?php

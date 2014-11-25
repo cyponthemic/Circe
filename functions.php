@@ -18,12 +18,21 @@ function load_cornerstone_child_scripts() {
 	);
 	
 	wp_enqueue_script(
+	'skrollr',
+	get_stylesheet_directory_uri() . '/js/skrollr.js',
+	array(),
+	'1.0',
+	true
+	);
+	
+	wp_enqueue_script(
 	'cornerstone_child_js',
 	get_stylesheet_directory_uri() . '/js/app.js',
 	array(),
 	'1.0',
 	true
-);
+	);
+	
 	
 	
 }

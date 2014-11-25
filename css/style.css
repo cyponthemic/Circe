@@ -252,154 +252,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -414,61 +428,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-13 {
     width: 100%;
   }
 
@@ -479,57 +498,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -593,154 +617,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -755,61 +793,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-13 {
     width: 100%;
   }
 
@@ -820,57 +863,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -933,154 +981,168 @@ select {
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -1102,154 +1164,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -1264,61 +1340,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-13 {
     width: 100%;
   }
 
@@ -1329,57 +1410,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -1442,154 +1528,168 @@ select {
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -10491,154 +10591,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -10653,61 +10767,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-13 {
     width: 100%;
   }
 
@@ -10718,57 +10837,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -10832,154 +10956,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -10994,61 +11132,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-13 {
     width: 100%;
   }
 
@@ -11059,57 +11202,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -11172,154 +11320,168 @@ select {
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -11341,154 +11503,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -11503,61 +11679,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-13 {
     width: 100%;
   }
 
@@ -11568,57 +11749,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -11681,154 +11867,168 @@ select {
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -14319,154 +14519,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -14481,61 +14695,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-13 {
     width: 100%;
   }
 
@@ -14546,57 +14765,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -14660,154 +14884,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -14822,61 +15060,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-13 {
     width: 100%;
   }
 
@@ -14887,57 +15130,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -15000,154 +15248,168 @@ select {
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -15169,154 +15431,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -15331,61 +15607,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-13 {
     width: 100%;
   }
 
@@ -15396,57 +15677,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -15509,154 +15795,168 @@ select {
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -16629,154 +16929,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -16791,61 +17105,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-13 {
     width: 100%;
   }
 
@@ -16856,57 +17175,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .small-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .small-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -16970,154 +17294,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -17132,61 +17470,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-13 {
     width: 100%;
   }
 
@@ -17197,57 +17540,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .medium-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .medium-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -17310,154 +17658,168 @@ select {
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 247, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 250, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -17479,154 +17841,168 @@ select {
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 159, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 162, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 
@@ -17641,61 +18017,66 @@ select {
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-1 {
-    width: 8.33333%;
+    width: 7.69231%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-2 {
-    width: 16.66667%;
+    width: 15.38462%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-3 {
-    width: 25%;
+    width: 23.07692%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-4 {
-    width: 33.33333%;
+    width: 30.76923%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-5 {
-    width: 41.66667%;
+    width: 38.46154%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-6 {
-    width: 50%;
+    width: 46.15385%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-7 {
-    width: 58.33333%;
+    width: 53.84615%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-8 {
-    width: 66.66667%;
+    width: 61.53846%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-9 {
-    width: 75%;
+    width: 69.23077%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-10 {
-    width: 83.33333%;
+    width: 76.92308%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-11 {
-    width: 91.66667%;
+    width: 84.61538%;
   }
 
   /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-12 {
+    width: 92.30769%;
+  }
+
+  /* line 172, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-13 {
     width: 100%;
   }
 
@@ -17706,57 +18087,62 @@ select {
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-1 {
-    margin-left: 8.33333% !important;
+    margin-left: 7.69231% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-2 {
-    margin-left: 16.66667% !important;
+    margin-left: 15.38462% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-3 {
-    margin-left: 25% !important;
+    margin-left: 23.07692% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-4 {
-    margin-left: 33.33333% !important;
+    margin-left: 30.76923% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-5 {
-    margin-left: 41.66667% !important;
+    margin-left: 38.46154% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-6 {
-    margin-left: 50% !important;
+    margin-left: 46.15385% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-7 {
-    margin-left: 58.33333% !important;
+    margin-left: 53.84615% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-8 {
-    margin-left: 66.66667% !important;
+    margin-left: 61.53846% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-9 {
-    margin-left: 75% !important;
+    margin-left: 69.23077% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-10 {
-    margin-left: 83.33333% !important;
+    margin-left: 76.92308% !important;
   }
 
   /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .large-offset-11 {
-    margin-left: 91.66667% !important;
+    margin-left: 84.61538% !important;
+  }
+
+  /* line 178, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .large-offset-12 {
+    margin-left: 92.30769% !important;
   }
 
   /* line 180, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -17819,154 +18205,168 @@ select {
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-1 {
     position: relative;
-    left: 8.33333%;
+    left: 7.69231%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-1 {
     position: relative;
-    right: 8.33333%;
+    right: 7.69231%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-2 {
     position: relative;
-    left: 16.66667%;
+    left: 15.38462%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-2 {
     position: relative;
-    right: 16.66667%;
+    right: 15.38462%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-3 {
     position: relative;
-    left: 25%;
+    left: 23.07692%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-3 {
     position: relative;
-    right: 25%;
+    right: 23.07692%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-4 {
     position: relative;
-    left: 33.33333%;
+    left: 30.76923%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-4 {
     position: relative;
-    right: 33.33333%;
+    right: 30.76923%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-5 {
     position: relative;
-    left: 41.66667%;
+    left: 38.46154%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-5 {
     position: relative;
-    right: 41.66667%;
+    right: 38.46154%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-6 {
     position: relative;
-    left: 50%;
+    left: 46.15385%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-6 {
     position: relative;
-    right: 50%;
+    right: 46.15385%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-7 {
     position: relative;
-    left: 58.33333%;
+    left: 53.84615%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-7 {
     position: relative;
-    right: 58.33333%;
+    right: 53.84615%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-8 {
     position: relative;
-    left: 66.66667%;
+    left: 61.53846%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-8 {
     position: relative;
-    right: 66.66667%;
+    right: 61.53846%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-9 {
     position: relative;
-    left: 75%;
+    left: 69.23077%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-9 {
     position: relative;
-    right: 75%;
+    right: 69.23077%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-10 {
     position: relative;
-    left: 83.33333%;
+    left: 76.92308%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-10 {
     position: relative;
-    right: 83.33333%;
+    right: 76.92308%;
     left: auto;
   }
 
   /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .push-11 {
     position: relative;
-    left: 91.66667%;
+    left: 84.61538%;
     right: auto;
   }
 
   /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
   .pull-11 {
     position: relative;
-    right: 91.66667%;
+    right: 84.61538%;
+    left: auto;
+  }
+
+  /* line 258, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .push-12 {
+    position: relative;
+    left: 92.30769%;
+    right: auto;
+  }
+
+  /* line 261, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  .pull-12 {
+    position: relative;
+    right: 92.30769%;
     left: auto;
   }
 }
@@ -19605,7 +20005,7 @@ meta.foundation-mq-topbar {
 /* line 114, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .contain-to-grid {
   width: 100%;
-  background: #333333;
+  background: black;
 }
 /* line 118, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .contain-to-grid .top-bar {
@@ -19645,7 +20045,7 @@ meta.foundation-mq-topbar {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #333333;
+  background: black;
   margin-bottom: 0;
 }
 /* line 157, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -19762,7 +20162,7 @@ meta.foundation-mq-topbar {
 }
 /* line 265, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .title-area {
-  background: #333333;
+  background: black;
 }
 /* line 268, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {
@@ -19792,7 +20192,7 @@ meta.foundation-mq-topbar {
 /* line 297, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar-section .divider,
 .top-bar-section [role="separator"] {
-  border-top: solid 1px #1a1a1a;
+  border-top: solid 1px black;
   clear: both;
   height: 1px;
   width: 100%;
@@ -20086,7 +20486,7 @@ meta.foundation-mq-topbar {
 @media only screen and (min-width: 40.063em) {
   /* line 448, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar {
-    background: #333333;
+    background: black;
     overflow: visible;
   }
   /* line 172, ../bower_components/foundation/scss/foundation/components/_global.scss */
@@ -20120,7 +20520,7 @@ meta.foundation-mq-topbar {
   }
   /* line 466, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar.expanded {
-    background: #333333;
+    background: black;
   }
 
   /* line 469, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -20159,7 +20559,7 @@ meta.foundation-mq-topbar {
   .top-bar-section li:not(.has-form) a:not(.button) {
     padding: 0 15px;
     line-height: 45px;
-    background: #333333;
+    background: black;
   }
   /* line 505, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section li:not(.has-form) a:not(.button):hover {
@@ -20276,14 +20676,14 @@ meta.foundation-mq-topbar {
   .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
     border-bottom: none;
     border-top: none;
-    border-right: solid 1px #4e4e4e;
+    border-right: solid 1px #212121;
     clear: none;
     height: 45px;
     width: 0;
   }
   /* line 627, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section .has-form {
-    background: #333333;
+    background: black;
     padding: 0 15px;
     height: 45px;
   }
@@ -20789,9 +21189,9 @@ p aside {
 /* line 252, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: lighter;
   font-style: normal;
-  color: #222222;
+  color: white;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -20800,13 +21200,13 @@ h1, h2, h3, h4, h5, h6 {
 /* line 262, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   font-size: 60%;
-  color: #6f6f6f;
+  color: white;
   line-height: 0;
 }
 
 /* line 269, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 2.125rem;
+  font-size: 1.625rem;
 }
 
 /* line 270, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -20837,7 +21237,7 @@ h6 {
 /* line 276, ../bower_components/foundation/scss/foundation/components/_type.scss */
 .subheader {
   line-height: 1.4;
-  color: #6f6f6f;
+  color: white;
   font-weight: normal;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -20997,7 +21397,7 @@ blockquote {
 blockquote cite {
   display: block;
   font-size: 0.8125rem;
-  color: #555555;
+  color: white;
 }
 /* line 408, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote cite:before {
@@ -21006,14 +21406,14 @@ blockquote cite:before {
 /* line 412, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote cite a,
 blockquote cite a:visited {
-  color: #555555;
+  color: white;
 }
 
 /* line 418, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote,
 blockquote p {
   line-height: 1.6;
-  color: #6f6f6f;
+  color: white;
 }
 
 /* Microformats */
@@ -21056,7 +21456,7 @@ blockquote p {
 
   /* line 456, ../bower_components/foundation/scss/foundation/components/_type.scss */
   h1 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
 
   /* line 457, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -21794,9 +22194,9 @@ p aside {
 /* line 252, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: lighter;
   font-style: normal;
-  color: #222222;
+  color: white;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -21805,13 +22205,13 @@ h1, h2, h3, h4, h5, h6 {
 /* line 262, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   font-size: 60%;
-  color: #6f6f6f;
+  color: white;
   line-height: 0;
 }
 
 /* line 269, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 2.125rem;
+  font-size: 1.625rem;
 }
 
 /* line 270, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -21842,7 +22242,7 @@ h6 {
 /* line 276, ../bower_components/foundation/scss/foundation/components/_type.scss */
 .subheader {
   line-height: 1.4;
-  color: #6f6f6f;
+  color: white;
   font-weight: normal;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -22002,7 +22402,7 @@ blockquote {
 blockquote cite {
   display: block;
   font-size: 0.8125rem;
-  color: #555555;
+  color: white;
 }
 /* line 408, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote cite:before {
@@ -22011,14 +22411,14 @@ blockquote cite:before {
 /* line 412, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote cite a,
 blockquote cite a:visited {
-  color: #555555;
+  color: white;
 }
 
 /* line 418, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote,
 blockquote p {
   line-height: 1.6;
-  color: #6f6f6f;
+  color: white;
 }
 
 /* Microformats */
@@ -22061,7 +22461,7 @@ blockquote p {
 
   /* line 456, ../bower_components/foundation/scss/foundation/components/_type.scss */
   h1 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
 
   /* line 457, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -23412,17 +23812,18 @@ th.hide-for-touch {
 }
 /* line 43, ../scss/style.scss */
 body {
-  background: black;
+  background: white;
 }
 
-/* line 49, ../scss/style.scss */
+/* line 51, ../scss/style.scss */
 .logotype {
   width: 50%;
   margin: 20px 25%;
 }
 
-/* line 56, ../scss/style.scss */
+/* line 58, ../scss/style.scss */
 #floating {
+  display: none;
   top: 20px;
   padding: 20px 40px;
   position: fixed;
@@ -23431,13 +23832,19 @@ body {
   margin-left: auto;
   z-index: 99;
 }
+@media only screen and (max-width: 40.063em) {
+  /* line 58, ../scss/style.scss */
+  #floating {
+    display: none !important;
+  }
+}
 @media only screen and (max-width: 62.5rem) {
-  /* line 56, ../scss/style.scss */
+  /* line 58, ../scss/style.scss */
   #floating {
     width: 25%;
   }
 }
-/* line 68, ../scss/style.scss */
+/* line 75, ../scss/style.scss */
 #floating ul {
   margin-left: 0;
   padding-left: 0;
@@ -23445,28 +23852,58 @@ body {
   width: 100%;
   list-style: none;
 }
-/* line 75, ../scss/style.scss */
+/* line 82, ../scss/style.scss */
 #floating ul li hr {
   margin: 5px 0px 10px;
   width: 10%;
   transition: width 1s ease-out;
 }
-/* line 80, ../scss/style.scss */
+/* line 87, ../scss/style.scss */
 #floating ul li:hover hr {
   width: 100%;
   transition: width 1s ease-out;
 }
-/* line 84, ../scss/style.scss */
+/* line 91, ../scss/style.scss */
 #floating ul li.active hr {
   width: 100%;
 }
-/* line 88, ../scss/style.scss */
+/* line 95, ../scss/style.scss */
 #floating ul li a {
   text-transform: uppercase;
   font-size: 18px;
   color: black;
 }
-/* line 92, ../scss/style.scss */
+/* line 99, ../scss/style.scss */
 #floating ul li a:hover {
   color: #700032;
+}
+
+/* line 110, ../scss/style.scss */
+header.parralax {
+  position: relative;
+  height: 250px;
+  width: 100%;
+  padding-top: 180px;
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+/* line 120, ../scss/style.scss */
+header.parralax:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.74;
+  background-color: black;
+  z-index: 0;
+}
+/* line 131, ../scss/style.scss */
+header.parralax h1 {
+  text-transform: uppercase;
+  position: relative;
+  z-index: 99;
+  letter-spacing: 3px;
 }
