@@ -3,6 +3,14 @@
 // Enqueue CSS and scripts
 
 function load_cornerstone_child_scripts() {
+	
+	wp_enqueue_style(
+		'icon_css',
+		get_stylesheet_directory_uri() . '/css/genericons.css',
+		false,
+		'all'
+	);
+	
 	wp_enqueue_style(
 		'circe_css',
 		get_stylesheet_directory_uri() . '/css/style.css',
