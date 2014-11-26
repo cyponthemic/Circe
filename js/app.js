@@ -6,7 +6,7 @@
 	jQuery(document).ready(function($) {
 	if ( jQuery(window).width()>1025 ) {
 	var gap = ($(window).width()-1025)/2;
-	$( "#floating" ).offset({ top: 20, left: gap }).fadeIn("slow");
+	$( "#floating" ).offset({ left: gap }).fadeIn("slow");
 	}
 	});
 	
@@ -17,7 +17,7 @@
 	else {
 	jQuery( "#floating" ).fadeIn("slow");
 	var gap = (jQuery(window).width()-1025)/2;
-	jQuery( "#floating" ).offset({ top: 20, left: gap }).fadeIn("slow");
+	jQuery( "#floating" ).offset({ left: gap }).fadeIn("slow");
 	}
 	});
 	
