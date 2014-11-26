@@ -16,7 +16,8 @@
 </head>
 
 <body <?php body_class(); ?>>
-<nav class="top-bar hide-for-large-up" data-topbar>
+<div class="hide-for-large-up sticky">
+<nav class="top-bar" data-topbar>
   <ul class="title-area">
     <li class="name">
     	<a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
@@ -61,7 +62,11 @@
       ?>
   </section>
 </nav>
-<nav id="floating" class="">
+</div>
+<nav id="floating"
+data--350-bottom-bottom='opactity :1 !important;'
+data--150-bottom-bottom='opactity :0 !important;'
+>
 	<img src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
 	<img class="logotype" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
 	 <?php
@@ -79,3 +84,25 @@
       ?>
 	<!-- </div> -->
 </nav>
+
+<?php global $post; ?>
+<?php
+$src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), "full", false, '' );
+?>
+
+<style>
+.parralax {
+	background: url(<?php echo $src[0]; ?> );
+	
+           }
+</style>
+<header class="parralax"
+data-0="background-position:  50% 0%;"
+data-top-bottom="background-position: 50% 100%;"
+>
+	<div class="row">
+		<div class="large-offset-3 small-9 columns">
+		<h1 class="entry-title"><?php the_title(); ?></h1>
+		</div>
+	</div>
+</header>

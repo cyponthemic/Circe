@@ -13,27 +13,7 @@
  */
 
 get_header(); ?>
-<?php global $post; ?>
-<?php
-$src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), "full", false, '' );
-?>
 
-<style>
-.parralax {
-	background: url(<?php echo $src[0]; ?> );
-	
-           }
-</style>
-<header class="parralax"
-data-0="background-position:  50% 0%;"
-data-top-bottom="background-position: 50% 100%;"
->
-	<div class="row">
-		<div class="large-offset-4 small-8 columns">
-		<h1 class="entry-title"><?php the_title(); ?></h1>
-		</div>
-	</div>
-</header>
 <div class="row">
 	<div id="primary" class="site-content small-12 medium-8 large-8 large-offset-4 columns">
 		<div id="content" role="main">
