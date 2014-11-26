@@ -44,7 +44,9 @@ body {
 	background: white;
 }
 
-
+* {
+	font-size: 18px;
+}
 
 //Nav
 
@@ -61,7 +63,7 @@ body {
 		display: none !important;
 	}
 	
-	top:$gap;
+	margin-top:$gap;
 	padding: $gap $gap*2;
 	position: fixed;
 	width: $row-width/4;
@@ -131,7 +133,61 @@ header.parralax {
 	h1 {
 	text-transform: uppercase;
 	position: relative;
-	z-index: 99;
+	z-index: 2;
 	letter-spacing: 3px;
 	}
+	
+}
+
+// Footer
+
+#footer {
+	background-color: black;
+	
+	position: relative;
+	z-index: 100;
+	.logotype{
+		height: auto;
+		width: 10%;
+		margin: $gap 45%;
+		@media only screen and (max-width: $row-width) {
+		width: 20%;
+		margin: $gap 40%;
+	}
+
+	}
+	.textwidget>p {
+		color: white;
+		font-size: 14px;
+		&>b {
+			font-size: 16px;
+		}
+	}
+}
+
+// About
+
+.main-row {
+	padding-top: 2*$gap;
+} 
+.side-content{
+	margin-top: 1em;
+	
+	img {
+		margin-bottom: $gap;
+	}
+	.twitter:before {
+		content: '\f202';
+		color: $primary-color;
+	}
+	ul,li {
+		list-style: none;
+		font-size: 14px;
+	}
+}
+
+H3 {
+	color: black;
+	text-transform: uppercase;
+	font-weight: 500;
 }
