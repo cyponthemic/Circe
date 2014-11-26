@@ -1,5 +1,6 @@
 @import "settings";
 @import "foundation";
+@import "customWC";
 
 // Or selectively include components
 // @import
@@ -142,6 +143,7 @@ header.parralax {
 // Footer
 
 #footer {
+	margin-top: $gap*3;
 	background-color: black;
 	
 	position: relative;
