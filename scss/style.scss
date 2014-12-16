@@ -1,6 +1,10 @@
+$accent-color:black;
 @import "settings";
 @import "foundation";
+$gap:20px;
+
 @import "customWC";
+@import "reviews";
 
 // Or selectively include components
 // @import
@@ -39,8 +43,7 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
-$gap:20px;
-$accent-color:#700032;
+
 body {
 	background: white;
 }
@@ -48,7 +51,9 @@ body {
 * {
 	font-size: 18px;
 }
-
+strong {
+	font-size: 18px;
+}
 //Nav
 
 .logotype{

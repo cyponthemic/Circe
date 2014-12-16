@@ -16,7 +16,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-<div class="hide-for-large-up sticky">
+<div class="hide-for-large-up ">
 <nav class="top-bar" data-topbar>
   <ul class="title-area">
     <li class="name">

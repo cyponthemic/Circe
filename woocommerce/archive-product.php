@@ -48,9 +48,9 @@ get_header( 'shop' ); ?>
 				<?php woocommerce_product_subcategories(); ?>
 
 				<?php while ( have_posts() ) : the_post(); ?>
-
+					<?php if($product->is_in_stock()):?>
 					<?php wc_get_template_part( 'content', 'product' ); ?>
-
+					<?php endif;?>
 				<?php endwhile; // end of the loop. ?>
 
 			<?php woocommerce_product_loop_end(); ?>
