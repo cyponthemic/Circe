@@ -1,0 +1,123 @@
+$( function() {
+  // init Isotope
+  var $container = $('.isotope').isotope({
+    itemSelector: '.color-shape'
+  });
+
+  // store filter for each group
+  var filters = {};
+
+  $('#filters').on( 'click', '.button', function() {
+    var $this = $(this);
+    // get group key
+    var $buttonGroup = $this.parents('.button-group');
+    var filterGroup = $buttonGroup.attr('data-filter-group');
+    // set filter for group
+    filters[ filterGroup ] = $this.attr('data-filter');
+    // combine filters
+    var filterValue = '';
+    for ( var prop in filters ) {
+      filterValue += filters[ prop ];
+    }
+    // set filter for Isotope
+    $container.isotope({ filter: filterValue });
+  });
+
+  // change is-checked class on buttons
+  $('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = $( buttonGroup );
+    $buttonGroup.on( 'click', 'button', function() {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      $( this ).addClass('is-checked');
+    });
+  });
+  
+});
+
+
+
+///2
+
+jQuery( function() {
+	 
+  // quick search regex
+  var qsRegex;
+  /* var buttonFilter; */
+  var filters;
+  // init Isotope
+  var $container = jQuery('#reviews').isotope({
+    itemSelector: '.review',
+    masonry: {
+				columnWidth: '.small-12'
+	},
+    filter: function() {
+      var $this = jQuery(this);
+      var buttonResult = filters ? $this.is( filters ) : true;
+      var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+      
+      return searchResult && buttonResult;
+    }
+  });
+  
+  jQuery('#filters').on( 'click', '.filter', function() {
+    var $this = jQuery(this);
+    // get group key
+    var $buttonGroup = $this.parents('.button-group');
+    var filterGroup = $buttonGroup.attr('data-filter-group');
+    // set filter for group
+    var filters={};
+    filters[ filterGroup ] = $this.attr('data-filter');
+    // combine filters
+    var filterValue = '';
+    for ( var prop in filters ) {
+      filterValue += filters[ prop ];
+    }
+    // set filter for Isotope
+    $container.isotope({ filter: filterValue });
+    });
+  ///////////////////
+  /*
+jQuery('#filters').on( 'click', '.filter', function() {
+    buttonFilter = jQuery( this ).attr('data-filter');
+    $container.isotope();
+  });
+*/
+  
+  // use value of search field to filter
+  var $quicksearch = jQuery('#quicksearch').keyup( debounce( function() {
+    qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+    $container.isotope();
+  }) );
+
+  
+    // change is-checked class on buttons
+  jQuery('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = jQuery( buttonGroup );
+    $buttonGroup.on( 'click', '.filter', function() {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      jQuery( this ).addClass('is-checked');
+    });
+  });
+  
+  
+});
+
+// debounce so filtering doesn't happen every millisecond
+function debounce( fn, threshold ) {
+  var timeout;
+  return function debounced() {
+    if ( timeout ) {
+      clearTimeout( timeout );
+    }
+    function delayed() {
+      fn();
+      timeout = null;
+    }
+    setTimeout( delayed, threshold || 100 );
+  };
+
+}
+
+
+Perfumed, lifted and floral, this shows the lift that pigeage and whole-bunch fermentation gives to a wine. Aromas of cherry, strawberry, raspberry, spice and cllassy oak that add to the complexity are present and there's good weight on the palate with sappy, cheery, strawberry and mineral flavours that have a lifted elegance. the structure of the wine is terrific - it will age well -with a lovely texture and vibrant acid that leads to waves of persistent raspberry and strawberry flavours on the finish? It's young and tightly coiled; do decant it for a few hours before serving.
+Food match : Roast duck

@@ -16,7 +16,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-<div class="hide-for-large-up sticky">
+<div class="hide-for-large-up ">
 <nav class="top-bar" data-topbar>
   <ul class="title-area">
     <li class="name">
@@ -66,9 +66,10 @@
 <nav id="floating"
 data--350-bottom-bottom='opactity :1 !important;'
 data--150-bottom-bottom='opactity :0 !important;'
->
-	<img src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
-	<img class="logotype" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
+>	
+	<?php if(is_front_page()){$home_page_class='homepage';}?>
+	<img class="<?php echo $home_page_class.'-logo';?>" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
+	<img class="logotype <?php echo $home_page_class.'-logotype';?>" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
 	 <?php
       // Left Nav Section
       if ( has_nav_menu( 'header-menu-left' ) ) {
@@ -85,7 +86,9 @@ data--150-bottom-bottom='opactity :0 !important;'
 	<!-- </div> -->
 </nav>
 
-<?php global $post; ?>
+<?php 
+if(!is_front_page()):
+global $post; ?>
 <?php
 $src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), "full", false, '' );
 ?>
@@ -102,7 +105,14 @@ data-top-bottom="background-position: 50% 100%;"
 >
 	<div class="row">
 		<div class="large-offset-3 small-9 columns">
-		<h1 class="entry-title"><?php the_title(); ?></h1>
+		
+		<?php if ( apply_filters( 'woocommerce_show_page_title', true ) & is_shop()) : ?>
+			<h1 class="entry-title"><?php woocommerce_page_title(); ?></h1>		
+		<?php else: ?>
+			<h1 class="entry-title"><?php the_title(); ?></h1>
+		<?php endif; ?>
+				
 		</div>
 	</div>
 </header>
+<?php endif;?>

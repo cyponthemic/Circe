@@ -1,5 +1,10 @@
+$accent-color:black;
 @import "settings";
 @import "foundation";
+$gap:20px;
+
+@import "customWC";
+@import "reviews";
 
 // Or selectively include components
 // @import
@@ -38,16 +43,17 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
-$gap:20px;
-$accent-color:#700032;
+
 body {
-	background: white;
+	background-color: white;
 }
 
 * {
 	font-size: 18px;
 }
-
+strong {
+	font-size: 18px;
+}
 //Nav
 
 .logotype{
@@ -58,6 +64,7 @@ body {
 
 
 #floating {
+	/* box-shadow: 1px 1px 15px 0px rgba(0,0,0,0.15); */
 	display: none;
 	@media only screen and (max-width: 40.063em) {
 		display: none !important;
@@ -126,26 +133,44 @@ header.parralax {
 		left:0;
 		width:100%;
 		height:100%;
-		opacity:0.74;
+		opacity:0.5;
 		background-color: black;
 		z-index: 0;
 	}
 	h1 {
 	text-transform: uppercase;
 	position: relative;
-	z-index: 2;
+	z-index: 99;
 	letter-spacing: 3px;
 	}
 	
 }
 
 // Footer
+.home{
+	/* border: 10px solid black; */
+}
+
+.homepage-logo{
+	display: none;
+}
+.homepage-logotype{
+width: 70%;
+margin: 72px 15%;
+}
+.window-height{
+	height: 100vh;
+	overflow: hidden;
+}
 
 #footer {
+	margin-top: $gap*3;
+	padding-top: $gap*3;
+	padding-bottom: $gap*3;
 	background-color: black;
 	
 	position: relative;
-	z-index: 100;
+	z-index: 1;
 	.logotype{
 		height: auto;
 		width: 10%;
@@ -156,7 +181,7 @@ header.parralax {
 	}
 
 	}
-	.textwidget>p {
+	.widget_text p {
 		color: white;
 		font-size: 14px;
 		&>b {

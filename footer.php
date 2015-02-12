@@ -1,20 +1,24 @@
+<?php if (!is_front_page()) : ?>
 <div id="footer">
 	<footer class="row">
-	<div class="small-13  columns logo">
-	<img class="logotype centered" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype_wb.png">
-	</div>
-		<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer Sidebar')) : ?>
+		<div class="large-3 columns"> TEST</div>
+			<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer Sidebar Custom')) : ?>
 		<?php endif; ?>
 		<?php if ( has_nav_menu( 'footer-menu' ) ) {
-			echo '<div class="row">';
-			wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'inline-list', 'container' => 'nav', 'container_class' => 'small-12 medium-12 columns' ) );
-			echo '</div>';
+			
+			wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'inline-list', 'container' => 'nav', 'container_class' => 'small-12 large-3 columns test' ) );
+			
 		} ?>
-	<div class="small-13  columns logo">
-	<img class="logotype centered" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype_wb.png">
-	</div>
+	
 	</footer>
 </div>
+<?php endif; ?>
 <?php wp_footer(); ?>
 </body>
+  <script>
+	  // Nothing new here...it's all in the CSS!
+	  var scene = document.getElementById('scene');
+	  var parallax = new Parallax(scene);
+	  
+  </script>
 </html>
