@@ -23517,7 +23517,7 @@ strong {
 
 /* line 66, ../scss/style.scss */
 #floating {
-  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 1px 1px 15px 0px rgba(0,0,0,0.15); */
   display: none;
   margin-top: 20px;
   padding: 20px 40px;
