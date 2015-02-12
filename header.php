@@ -66,9 +66,10 @@
 <nav id="floating"
 data--350-bottom-bottom='opactity :1 !important;'
 data--150-bottom-bottom='opactity :0 !important;'
->
-	<img src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
-	<img class="logotype" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
+>	
+	<?php if(is_front_page()){$home_page_class='homepage';}?>
+	<img class="<?php echo $home_page_class.'-logo';?>" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logo.gif">
+	<img class="logotype <?php echo $home_page_class.'-logotype';?>" src="<?php echo get_stylesheet_directory_uri()?>/img/circe_wines_logotype.png">
 	 <?php
       // Left Nav Section
       if ( has_nav_menu( 'header-menu-left' ) ) {
@@ -85,7 +86,9 @@ data--150-bottom-bottom='opactity :0 !important;'
 	<!-- </div> -->
 </nav>
 
-<?php global $post; ?>
+<?php 
+if(!is_front_page()):
+global $post; ?>
 <?php
 $src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), "full", false, '' );
 ?>
@@ -112,3 +115,4 @@ data-top-bottom="background-position: 50% 100%;"
 		</div>
 	</div>
 </header>
+<?php endif;?>

@@ -50,6 +50,14 @@ function load_cornerstone_child_scripts() {
 	);
 	
 	wp_enqueue_script(
+	'parallax',
+	get_stylesheet_directory_uri() . '/js/parallax.js',
+	array(),
+	'1.0',
+	true
+	);
+	
+	wp_enqueue_script(
 	'cornerstone_child_js',
 	get_stylesheet_directory_uri() . '/js/app.js',
 	array(),
@@ -272,7 +280,21 @@ function woo_new_product_tab_content() {
 }
 
 
+// Sidebars
 
+if (function_exists('register_sidebar')) {
+
+	// Footer Sidebar
+
+	register_sidebar(array(
+		'name'=> 'Footer Sidebar Custom',
+		'id' => 'footer_sidebar_Custom',
+		'before_widget' => '<div id="%1$s" class="small-12 medium-3 columns %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<h4>',
+		'after_title' => '</h4>',
+	));
+}
 
 
 
